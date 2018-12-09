@@ -1,4 +1,4 @@
-To run the code, I recommend you run it in a Ubuntu virtual machine with qemu emulator.
+To run the code, I recommend you run it in a Ubuntu virtual machine with qemu emulator. This is coding envrionment I have success with. I had trouble compiling running the bochs emulator in macOS. 
 
 You will need to install qemu emulator inside your Ubuntu virtual machine.
 
