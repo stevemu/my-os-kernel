@@ -2,6 +2,8 @@ To run the code, I recommend you run it in a Ubuntu virtual machine with qemu em
 
 You will need to install qemu emulator inside your Ubuntu virtual machine.
 
+The content of this kernel follows the tutorial from here: http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf and then here https://github.com/cfenollosa/os-tutorial up to 21-shell
+
 Here are some often used commands during my development:
 
 # clean, compile and run the kernel in emulator:
